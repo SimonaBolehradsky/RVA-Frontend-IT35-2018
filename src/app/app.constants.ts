@@ -9,5 +9,5 @@ export const OBRAZOVANJE_URL='https://it35-2018-backend.herokuapp.com/obrazovanj
 export const PREDUZECE_URL='https://it35-2018-backend.herokuapp.com/preduzece';
 export const SEKTOR_URL='https://it35-2018-backend.herokuapp.com/sektor';
 export const RADNIK_SEKTORA_URL='https://it35-2018-backend.herokuapp.com/radnikSektora';
-export const RADNIK_URL='https://it35-2018-backend.herokuapp.com/radnik';
+export const RADNIK_URL='https://it35-2018-backend.herokuapp.com/radnik'; 
 
